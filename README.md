@@ -14,7 +14,7 @@ This template makes use of [POI](https://poi.js.org/#/) , [Bili](https://egoist.
 This is a project template for [sao](https://github.com/saojs/sao).
 
 ``` bash
-$ yarn install -g sao       # Install sao if you haven't already
+$ yarn global add sao       # Install sao if you haven't already
 $ sao cristijora/vue-npm  # Create a new project based on this template
 $ cd my-project               # Navigate into your new project folder
 
